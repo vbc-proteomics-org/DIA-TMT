@@ -118,10 +118,6 @@ directory (relative paths, resolved from the working directory):
 > The data files themselves are **not** included in this repository. Place them under `data/`
 > with the expected names before running.
 
-```r
-dir.create("plots", showWarnings = FALSE)
-```
-
 ---
 
 ## Outputs
