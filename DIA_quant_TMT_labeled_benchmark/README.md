@@ -39,12 +39,11 @@ normalisation** (tag `MS2_Norm`).
 .
 ├── 00_shared_functions.R     # Constants, data processing, theme and plot functions (no I/O)
 ├── 01_DIA_analysis.R         # Full QC / exploratory figure set (optional)
-├── 02_DIA_boxplot_ratios.R   # Figure 6 panel -> p3_multi009.rds
+├── 02_DIA_boxplot_ratios.R   # p3_multi009.rds
 ├── data/                     # Spectronaut report (not tracked, see "Input data")
 └── plots/                    # Generated figures (created automatically)
 ```
 
-`assemble_fig6.R` does **not** belong in this repository. See [Figure 6 assembly](#figure-6-assembly).
 
 ---
 
