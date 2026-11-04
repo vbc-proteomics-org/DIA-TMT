@@ -31,4 +31,4 @@ Each subfolder is self-contained and has its own `README.md` with a detailed ove
 
 ## How to run
 
-Run the four benchmark pipelines independently, following the instructions in their respective READMEs. Once their outputs are generated, run `figure6_assembly/assemble_fig6.R` to compile Figure 6.
+Run the four benchmark pipelines independently, following the instructions in their respective READMEs.
