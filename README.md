@@ -2,6 +2,7 @@
 
 This repository contains the analysis code accompanying the manuscript *"Making the Impossible Possible: Uniting TMT and DIA for Scalable Low-Input-Proteomics"*. 
 It benchmarks DIA-TMTpro workflows against DDA-TMT and DIA-LFQ using a two-proteome (human/yeast) interference model on the Orbitrap Astral.
+The manuscript is preprinted on [bioRxiv](https://doi.org/10.64898/2026.10.20.760427).
 
 ## Repository structure
 
