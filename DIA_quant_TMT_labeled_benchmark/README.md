@@ -56,9 +56,6 @@ normalisation** (tag `MS2_Norm`).
 install.packages(c("tidyverse", "scales", "cowplot", "patchwork"))
 ```
 
-The plots use recent ggplot2 options (`legend.position.inside`, and `box.linewidth` /
-`whisker.linewidth` / `median.linewidth` in `geom_boxplot()`). Use a current ggplot2 release.
-
 ---
 
 ## How to run
