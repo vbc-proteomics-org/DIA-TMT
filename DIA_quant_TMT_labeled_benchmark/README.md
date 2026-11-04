@@ -117,15 +117,12 @@ Figure 6 combines panels from four separate projects:
 | C | **this repository (DIA quantification of TMT-labeled samples)** | `p3_multi009.rds` |
 | D | `TMTc_complementary_ion_quantification` | `p4_multi007.rds` |
 
-`assemble_fig6.R` lives in its own `figure_assembly` project. This project expects all source
-projects to be cloned side by side and run once:
 
 ```
 parent/
 ├── TMT_RI_coisolation_purity_benchmark/
 ├── TMTc_complementary_ion_quantification/
 ├── single_proteome_DIA_TMT_benchmark/
-├── DIA_quant_TMT_labeled_benchmark/        <- this repository
-└── figure6_assembly/
-    └── assemble_fig6.R
+├── DIA_quant_TMT_labeled_benchmark/
+
 ```
