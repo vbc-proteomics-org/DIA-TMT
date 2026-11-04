@@ -23,7 +23,6 @@ Each subfolder is self-contained and has its own `README.md` with a detailed ove
 - [`single_proteome_DIA_TMT_benchmark`](./single_proteome_DIA_TMT_benchmark/README.md)
 - [`DIA_quant_TMT_labeled_benchmark`](./DIA_quant_TMT_labeled_benchmark/README.md)
 - [`TMTpro_Complementary_Ion_Search`](./TMTpro_Complementary_Ion_Search/README.md)
-- [`figure6_assembly`](./figure6_assembly/README.md)
 
 ## Requirements
 
