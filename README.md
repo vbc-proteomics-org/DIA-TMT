@@ -13,8 +13,7 @@ The manuscript is preprinted on [bioRxiv](https://doi.org/10.64898/2026.10.20.76
 ├── single_proteome_DIA_TMT_benchmark/       # Single-proteome DIA-TMT benchmark
 ├── DIA_quant_TMT_labeled_benchmark/         # DIA quantification of TMT-labeled (but not RI-quantified) samples
 ├── TMTpro_Complementary_Ion_Search/         # Python pre-processing for TMTc complementary-ion search
-└── figure6_assembly/                        # Assembles Figure 6 from outputs of the above pipelines
-    └── assemble_fig6.R
+
 ```
 
 Each subfolder is self-contained and has its own `README.md` with a detailed overview, experimental design, script-by-script run order, input data, and output file descriptions:
