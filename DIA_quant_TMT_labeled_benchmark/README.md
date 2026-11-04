@@ -105,24 +105,3 @@ columns:
 | `p3_multi009.rds` | ggplot object, read by the Figure 6 assembly script (script `02`) |
 
 ---
-
-## Figure 6 assembly
-
-Figure 6 combines panels from four separate projects:
-
-| Panel | Source project | File |
-|-------|-----------------|------|
-| A | `TMT_RI_coisolation_purity_benchmark` (TMT, DDA) | `p1_multi005_DDA.rds` |
-| B | `TMT_RI_coisolation_purity_benchmark` (TMT, DIA) | `p2_multi005_DIA.rds` |
-| C | **this repository (DIA quantification of TMT-labeled samples)** | `p3_multi009.rds` |
-| D | `TMTc_complementary_ion_quantification` | `p4_multi007.rds` |
-
-
-```
-parent/
-├── TMT_RI_coisolation_purity_benchmark/
-├── TMTc_complementary_ion_quantification/
-├── single_proteome_DIA_TMT_benchmark/
-├── DIA_quant_TMT_labeled_benchmark/
-
-```
